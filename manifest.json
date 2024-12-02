@@ -1,0 +1,6 @@
+{
+  "manifest_version": 2,
+  "name": "Extensions Button Stopper",
+  "version": "1.0",
+  "description": "Prevent the Extensions button from opening the Add-ons Manager when you have no extensions or have pinned all extensions"
+}
